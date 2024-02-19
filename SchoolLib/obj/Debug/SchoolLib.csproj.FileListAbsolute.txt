@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\phase 4 simplilearn project\project1\TestProjectSchool\SchoolLib\bin\Debug\SchoolLib.dll
+C:\Users\LENOVO\Documents\phase 4 simplilearn project\project1\TestProjectSchool\SchoolLib\bin\Debug\SchoolLib.pdb
+C:\Users\LENOVO\Documents\phase 4 simplilearn project\project1\TestProjectSchool\SchoolLib\obj\Debug\SchoolLib.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\phase 4 simplilearn project\project1\TestProjectSchool\SchoolLib\obj\Debug\SchoolLib.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\phase 4 simplilearn project\project1\TestProjectSchool\SchoolLib\obj\Debug\SchoolLib.dll
+C:\Users\LENOVO\Documents\phase 4 simplilearn project\project1\TestProjectSchool\SchoolLib\obj\Debug\SchoolLib.pdb
